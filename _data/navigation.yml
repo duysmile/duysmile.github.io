@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Blog Posts"
-    url: /blogs/
+    url: /
 
   - title: "Guide"
     url: /markdown/
