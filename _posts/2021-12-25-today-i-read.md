@@ -11,7 +11,7 @@ Cách build UI components
 ======
 
 Chúng ta thường hay tạo ra các Resuable Component bằng các copy code sang, và sử dụng bằng cách truyền props vào. Kiểu như thế này
-```
+```javascript
 <LoginFormModal
   onSubmit={handleSubmit}
   modalTitle="Modal title"
@@ -25,7 +25,7 @@ Cách này làm cho chúng ta cảm giác như đang abstract một Component, v
 Nhưng thực tế thì không phải vậy, nếu như muốn custom gì ở Component này, chúng ta lại phải thêm một prop và chỉnh sửa ở code trong Component. Việc này khiến cho việc sử dụng không còn linh hoạt, và việc maintain nó cũng khó hơn.
 
 Thay vào đó, chúng ta nên tạo ra các Component dạng này để việc sử dụng được hiệu quả và linh hoạt hơn.
-```
+```javascript
 <Modal>
   <ModalOpenButton>
     <button>Open Modal</button>
