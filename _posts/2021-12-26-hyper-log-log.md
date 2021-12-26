@@ -9,3 +9,7 @@ tags:
 HyperLogLog là gì?
 ======
 
+Nguồn tham khảo:
+- https://odino.org/my-favorite-data-structure-hyperloglog/
+- https://www.youtube.com/watch?v=2PlrMCiUN_s
+- https://towardsdatascience.com/hyperloglog-a-simple-but-powerful-algorithm-for-data-scientists-aed50fe47869
