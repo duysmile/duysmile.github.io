@@ -6,6 +6,7 @@ tags:
   - til
   - tir
 ---
+Thay đổi cách build một Reuable Component
 
 Cách build UI components
 ======
