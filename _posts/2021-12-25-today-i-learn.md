@@ -5,6 +5,7 @@ permalink: /posts/2021/12/til20211225/
 tags:
   - til
 ---
+Locking read trong MySQL, giải quyết việc read tuần tự
 
 Locking in MySQL
 ======

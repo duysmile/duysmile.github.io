@@ -5,6 +5,7 @@ permalink: /posts/2021/12/hyper_log_log/
 tags:
   - til
 ---
+Giải quyết bài toán count distint (tính số lượng phần tử unique)
 
 HyperLogLog là gì?
 ======
