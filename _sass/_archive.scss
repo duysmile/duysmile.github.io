@@ -41,12 +41,18 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
+  margin-top: 0.75em;
   font-family: $sans-serif-narrow;
 
   a + a {
     opacity: 0.5;
     text-decoration: none;
   }
+}
+
+.archive__item p {
+  margin: 0;
+  color: #9BA1A6
 }
 
 /* remove border*/
@@ -106,7 +112,7 @@
   .page__meta {
     margin: 0 0 4px;
   }
-   
+
   border-bottom: solid 1px #eeeeee;
 }
 
